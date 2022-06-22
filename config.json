@@ -1,9 +1,10 @@
 {
-	"ip": "manhbi18112005.aternos.me",
+	"ip": "TBNRGamemode.aternos.me",
 	"username": "NoNameBot",
-	"port": 47356,
+	"port": 14556,
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
-	"maxrandom": 5
+	"maxrandom": 5,
+        "keepinvenotry": true
 }
